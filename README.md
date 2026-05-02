@@ -63,7 +63,6 @@ I'm aiming to become a Software Engineer specialized in AI, able to create my ow
 
 - 📚 Siempre dispuesto a aprender nuevas tecnologías.
 - 💬 Hablo español nativo y tengo nivel A2 en inglés, pero ¡estoy mejorando!
-- 📱 Sígueme en Instagram: [@saelmarco](https://instagram.com/saelmarco)
 - 📲 Escríbeme por WhatsApp: [+57 304 558 0098](https://wa.me/573045580098)
 - 😄 Soy creativo, curioso y me encanta resolver problemas.
 
