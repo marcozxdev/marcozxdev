@@ -8,11 +8,21 @@
 
 Construyo APIs de producción con Python. Este es mi stack real, no mi stack aspiracional.
 
-<!-- Reemplaza estos placeholders con tus datos reales antes de publicar -->
-<!-- Email:    tu-email@ejemplo.com -->
-<!-- LinkedIn: https://www.linkedin.com/in/tu-usuario/ -->
+🟢 **Disponible para oportunidades de backend Python (Junior–Mid)**
 
-[GitHub](https://github.com/marcozxdev) · [Northwind API](https://github.com/marcozxdev/Northwind-Enterprise-API) · [LinkedIn](#) · [Email](#)
+[`github.com/marcozxdev`](https://github.com/marcozxdev) · [`Northwind API`](https://github.com/marcozxdev/Northwind-Enterprise-API)
+
+<!--
+  Añade tus datos de contacto reales antes de usar el README enbuscadores de empleo.
+  GitHub muestra este archivo como perfil, así que es lo primero que lee un recruiter.
+
+  **Email:**    tu-correo@ejemplo.com
+  **LinkedIn:** https://www.linkedin.com/in/tu-usuario/
+  **Portafolio:** https://tu-sitio.dev
+
+  Para añadirlos arriba, convierte la línea de enlaces en algo como:
+  [GitHub](...) · [LinkedIn](https://www.linkedin.com/in/tu-usuario/) · [Email](mailto:tu-correo@ejemplo.com)
+-->
 
 </div>
 
@@ -27,7 +37,7 @@ Construyo APIs de producción con Python. Este es mi stack real, no mi stack asp
 | **8** | repositorios públicos |
 | **~20.300** | líneas de código escritas |
 | **100** | tests automatizados en verde |
-| **109** | commits con Conventional Commits |
+| **113** | commits documentados |
 | **10** | meses de trayectoria documentada |
 
 </div>
@@ -80,7 +90,7 @@ Construyo APIs de producción con Python. Este es mi stack real, no mi stack asp
 API REST completa sobre la base de datos Northwind: 8 entidades de negocio, ~8.400 líneas.
 
 - **Arquitectura por capas** — `core` → `models` → `repositories` → `routers` → `schemas`
-- **100 tests automatizados** en verde, con aislamiento por rollback de transacción
+- **100 tests automatizados en verde**, ejecutados contra PostgreSQL y Redis reales, con aislamiento por rollback de transacción
 - **RBAC con 6 roles** (`admin`, `manager`, `vendedor`, `viewer`, `auditor`, `inactive`) y distinción correcta entre 401 y 403
 - **Caché en Redis** con TTL escalonado por tipo de entidad e invalidación automática por patrón en escrituras
 - **Docker Compose** con 4 servicios: API, PostgreSQL 17, Redis y pgAdmin
@@ -92,7 +102,7 @@ API REST completa sobre la base de datos Northwind: 8 entidades de negocio, ~8.4
 ### 📚 CountBooks — *Gestor de biblioteca de escritorio*
 **[`CountBooks`](https://github.com/marcozxdev/CountBooks)** · Python · PySide6 · SQLite · pandas · Apache-2.0
 
-Aplicación de escritorio para inventario de libros con préstamos, donaciones e IEEE. **Proyecto open source con 4 autores** (el único donde colaboré en equipo).
+Aplicación de escritorio para inventarios de libros: préstamos, donaciones, pérdidas y datos detallado de cada título. **Proyecto open source con 4 autores** — el único donde colaboré en equipo.
 
 - **~2.800 líneas** con separación UI → Servicio → Repositorio → Base de datos
 - **SQL 100% parametrizado** e índices en título, autor, categoría e ISBN
@@ -129,7 +139,7 @@ No empecé sabiendo. Estos son los commits, no las promesas:
 | **Nov 2025** — `task-tracker-API` | Primeros endpoints FastAPI. Cero tests, cero anotaciones de tipo, `except:` vacíos, dependencias faltantes en `requirements.txt`. |
 | **Abr 2026** — `CountBooks` | Primer proyecto con licencia open source y trabajo real en equipo (4 autores). SQL parametrizado y separación por capas. |
 | **Ago 2026** — `Northwind` | Salto a arquitectura enterprise: repositorios genéricos, RBAC, caché Redis, Docker Compose. |
-| **Sep 2026** — `Northwind` | **100 tests automatizados** en verde, `conftest.py` de 298 líneas con aislamiento por rollback, 475 docstrings estilo Google, pipeline de CI. |
+| **Sep 2026** — `Northwind` | **100 tests automatizados en verde**, ejecutados contra PostgreSQL y Redis reales. `conftest.py` de 298 líneas con aislamiento por rollback y 475 docstrings estilo Google. |
 
 **Diez meses, de cero tests a un pipeline de CI con cobertura de pruebas de integración.**
 
@@ -147,8 +157,11 @@ No empecé sabiendo. Estos son los commits, no las promesas:
 
 Disponible para **oportunidades de backend Python (Junior–Mid)** y proyectos de freelance.
 
-<!-- Descomenta y completa estos datos -->
-<!-- **Email:**    tu-email@ejemplo.com -->
+<!--
+  Descomenta y completa. Sin email ni LinkedIn el perfil no tiene vía de
+  conversión: un recruiter que llega desde el repo no tiene dónde escribirte.
+-->
+<!-- **Email:**    tu-correo@ejemplo.com -->
 <!-- **LinkedIn:** https://www.linkedin.com/in/tu-usuario/ -->
 
 📍 Quindío, Colombia · 🌎 Español nativo · 🇬🇧 Inglés técnico (A2 → B1 en curso)
@@ -164,6 +177,16 @@ Disponible para **oportunidades de backend Python (Junior–Mid)** y proyectos d
 
 I build production APIs with Python. This is my real stack, not my aspirational stack.
 
+🟢 **Open to Python backend opportunities (Junior–Mid)**
+
+[`github.com/marcozxdev`](https://github.com/marcozxdev) · [`Northwind API`](https://github.com/marcozxdev/Northwind-Enterprise-API)
+
+<!--
+  Add your real contact details here. Uncomment and fill in.
+  **Email:**    your-email@example.com
+  **LinkedIn:** https://www.linkedin.com/in/your-handle/
+-->
+
 ### 📊 By the numbers
 
 | | |
@@ -171,7 +194,7 @@ I build production APIs with Python. This is my real stack, not my aspirational 
 | **8** | public repositories |
 | **~20,300** | lines of code written |
 | **100** | automated tests passing |
-| **109** | commits following Conventional Commits |
+| **113** | documented commits |
 | **10** | months of documented progress |
 
 ### 🚀 Projects
@@ -179,7 +202,7 @@ I build production APIs with Python. This is my real stack, not my aspirational 
 **⭐ Northwind Enterprise API** · Python · FastAPI · PostgreSQL 17 · Redis 8 · Docker
 Full REST API over the Northwind sample database — 8 business entities, ~8,400 lines.
 - Clean layered architecture: `core` → `models` → `repositories` → `routers` → `schemas`
-- **100 passing automated tests** with per-test transaction rollback isolation
+- **100 passing automated tests**, executed against real PostgreSQL and Redis, with per-test transaction rollback isolation
 - **RBAC with 6 roles**, correct 401 vs 403 distinction
 - **Redis caching** with tiered TTLs and automatic pattern invalidation on writes
 - **Docker Compose** with 4 services: API, PostgreSQL 17, Redis, pgAdmin
@@ -205,9 +228,9 @@ I didn't start out knowing this. These are the commits, not the promises:
 - **Nov 2025** — First FastAPI endpoints. Zero tests, zero type annotations, empty `except:`, missing dependencies.
 - **Apr 2026** — First open-source licensed project and real team collaboration (4 authors).
 - **Aug 2026** — Jump to enterprise architecture: generic repositories, RBAC, Redis caching, Docker Compose.
-- **Sep 2026** — **100 passing automated tests**, 298-line `conftest.py`, 475 Google-style docstrings, CI pipeline.
+- **Sep 2026** — **100 passing automated tests**, executed against real PostgreSQL and Redis. 298-line `conftest.py` with per-test transaction rollback, 475 Google-style docstrings.
 
-**Ten months, from zero tests to a CI pipeline with integration test coverage.**
+**Ten months, from zero tests to an integration suite of 100 passing tests.**
 
 ### 🧭 Where I'm headed
 
