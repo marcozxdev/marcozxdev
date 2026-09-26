@@ -30,60 +30,27 @@
 
 ### Backend
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python"><br><sub>Python</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"><br><sub>FastAPI</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="48" alt="SQLAlchemy"><br><sub>SQLAlchemy 2.0</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" alt="OpenAPI"><br><sub>OpenAPI 3.1</sub></td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)  ![SQLAlchemy 2.0](https://img.shields.io/badge/SQLAlchemy%202.0-6BA81B?logo=sqlalchemy&logoColor=white&style=flat-square)  ![OpenAPI 3.1](https://img.shields.io/badge/OpenAPI%203.1-6BA539?logo=openapiinitiative&logoColor=white&style=flat-square)
 
 ### Datos
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"><br><sub>PostgreSQL 17</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" alt="Redis"><br><sub>Redis 8</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite"><br><sub>SQLite</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" alt="pandas"><br><sub>pandas</sub></td>
-</tr>
-</table>
+![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL%2017-4169E1?logo=postgresql&logoColor=white&style=flat-square)  ![Redis 8](https://img.shields.io/badge/Redis%208-DC382D?logo=redis&logoColor=white&style=flat-square)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)  ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 
 ### Infraestructura
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" alt="Docker"><br><sub>Docker Compose</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" alt="Git"><br><sub>Git</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux"><br><sub>Linux</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="Bash"><br><sub>Bash</sub></td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 
 ### Calidad y herramientas
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="48" alt="pytest"><br><sub>pytest</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="Visual Studio Code"><br><sub>VS Code</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="48" alt="PyCharm"><br><sub>PyCharm</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="48" alt="Qt"><br><sub>PySide6</sub></td>
-</tr>
-</table>
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square)  ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white&style=flat-square)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
-### También manejo
+### Desktop y web
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5"><br><sub>HTML5</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3"><br><sub>CSS3</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"><br><sub>JavaScript</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
-</tr>
-</table>
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?logo=qt&logoColor=white&style=flat-square)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
-**Sin icono propio en devicon** — Pydantic · JWT · bcrypt · RBAC · Repository Pattern · Uvicorn · psycopg 3 · openpyxl · PyInstaller
+**Tecnologías sin icono propio** — Pydantic · JWT · bcrypt · RBAC · Repository Pattern · Uvicorn · psycopg 3 · openpyxl · PyInstaller
 
 ---
 
