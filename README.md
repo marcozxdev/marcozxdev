@@ -2,7 +2,7 @@
 
 # Marco Salazar
 
-**Backend Engineer · Python**
+**Backend Engineer | Software Developer | AI · Python**
 
 </div>
 
