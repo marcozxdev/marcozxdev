@@ -1,256 +1,191 @@
 <div align="center">
 
-<img src="https://github.com/marcozxdev.png" alt="Marco Salazar" width="110" style="border-radius:50%;border:3px solid #2b6cb0;">
-
 # Marco Salazar
 
-**Backend Python Engineer — FastAPI · PostgreSQL · Redis · Docker**
-
-Construyo APIs de producción con Python. Este es mi stack real, no mi stack aspiracional.
-
-🟢 **Disponible para oportunidades de backend Python (Junior–Mid)**
-
-[`github.com/marcozxdev`](https://github.com/marcozxdev) · [`Northwind API`](https://github.com/marcozxdev/Northwind-Enterprise-API)
-
-<!--
-  Añade tus datos de contacto reales antes de usar el README enbuscadores de empleo.
-  GitHub muestra este archivo como perfil, así que es lo primero que lee un recruiter.
-
-  **Email:**    tu-correo@ejemplo.com
-  **LinkedIn:** https://www.linkedin.com/in/tu-usuario/
-  **Portafolio:** https://tu-sitio.dev
-
-  Para añadirlos arriba, convierte la línea de enlaces en algo como:
-  [GitHub](...) · [LinkedIn](https://www.linkedin.com/in/tu-usuario/) · [Email](mailto:tu-correo@ejemplo.com)
--->
+**Backend Engineer · Python**
 
 </div>
-
----
-
-## 📊 En números
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| **8** | repositorios públicos |
-| **~20.300** | líneas de código escritas |
-| **100** | tests automatizados en verde |
-| **113** | commits documentados |
-| **10** | meses de trayectoria documentada |
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-Backend%20Python-3fb950?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/marco-salazar-3a39733b4/)
+[![Followers](https://img.shields.io/github/followers/marcozxdev?style=flat-square&labelColor=1a1a1a&logo=github&logoColor=white&label=Followers)](https://github.com/marcozxdev?tab=followers)
+[![Repos](https://img.shields.io/github/repos/marcozxdev?style=flat-square&labelColor=1a1a1a&label=Repos&logo=github&logoColor=white)](https://github.com/marcozxdev?tab=repositories)
 
 </div>
 
----
+<div align="center">
 
-## 🛠️ Stack
+[LinkedIn](https://www.linkedin.com/in/marco-salazar-3a39733b4/) ·
+[marcozxdev@gmail.com](mailto:marcozxdev@gmail.com) ·
+[Quindío, Colombia](https://www.google.com/maps/search/?api=1&query=Quindio+Colombia)
 
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="45" alt="SQLAlchemy">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" alt="OpenAPI">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" alt="NumPy">
+</div>
 
-### Datos
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" alt="Redis">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" alt="pandas">
-
-### Infraestructura
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" alt="Bash">
-
-### Calidad y herramientas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="45" alt="pytest">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" alt="PyCharm">
-
-### También manejo
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt / PySide6">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS">
-
-**Prácticas:** JWT + bcrypt · RBAC · Repository Pattern genérico · caché con invalidación · OpenAPI 3.1 · PyInstaller · typed settings con `pydantic-settings`
+<br>
 
 ---
 
-## 🚀 Proyectos
+## Stack
 
-### ⭐ Northwind Enterprise API — *API REST empresarial*
-**[`Northwind-Enterprise-API`](https://github.com/marcozxdev/Northwind-Enterprise-API)** · Python · FastAPI · PostgreSQL 17 · Redis 8 · Docker
+<div align="center">
 
-API REST completa sobre la base de datos Northwind: 8 entidades de negocio, ~8.400 líneas.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="42" alt="SQLAlchemy">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" alt="Redis">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="42" alt="pytest">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git">
 
-- **Arquitectura por capas** — `core` → `models` → `repositories` → `routers` → `schemas`
-- **100 tests automatizados en verde**, ejecutados contra PostgreSQL y Redis reales, con aislamiento por rollback de transacción
-- **RBAC con 6 roles** (`admin`, `manager`, `vendedor`, `viewer`, `auditor`, `inactive`) y distinción correcta entre 401 y 403
-- **Caché en Redis** con TTL escalonado por tipo de entidad e invalidación automática por patrón en escrituras
-- **Docker Compose** con 4 servicios: API, PostgreSQL 17, Redis y pgAdmin
-- Repositorios genéricos `BaseRepository[ModelType]` con `TypeVar` acotado
-- SQLAlchemy 2.0 moderno (`DeclarativeBase`, `Mapped[T]`, `mapped_column`) + psycopg 3
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" alt="pandas">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="42" alt="Qt">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" alt="OpenAPI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" alt="Bash">
+
+</div>
+
+**Backend** FastAPI · Pydantic · SQLAlchemy 2.0 · psycopg 3 · Uvicorn
+**Datos** PostgreSQL 17 · Redis 8 · SQLite · pandas
+**Seguridad** JWT · bcrypt · RBAC
+**Infra** Docker Compose · Git · Linux · Bash
+**Desktop** PySide6 · PyInstaller
 
 ---
 
-### 📚 CountBooks — *Gestor de biblioteca de escritorio*
-**[`CountBooks`](https://github.com/marcozxdev/CountBooks)** · Python · PySide6 · SQLite · pandas · Apache-2.0
+## Proyectos
 
-Aplicación de escritorio para inventarios de libros: préstamos, donaciones, pérdidas y datos detallado de cada título. **Proyecto open source con 4 autores** — el único donde colaboré en equipo.
+### ⭐ [Northwind Enterprise API](https://github.com/marcozxdev/Northwind-Enterprise-API)
 
-- **~2.800 líneas** con separación UI → Servicio → Repositorio → Base de datos
-- **SQL 100% parametrizado** e índices en título, autor, categoría e ISBN
-- Modo WAL en SQLite y PRAGMAs afinados
-- Import/export en Excel con pandas + openpyxl
+`Python` `FastAPI` `PostgreSQL 17` `Redis 8` `Docker`
+
+API REST empresarial sobre la base de datos Northwind. 8 entidades de negocio.
+
+| | |
+|---|---|
+| Python | 8.386 líneas · 60 módulos |
+| Tests | **100 automatizados en verde** contra PostgreSQL y Redis reales |
+| Roles | 6, con distinción 401 / 403 |
+| Capas | `core` → `models` → `repositories` → `routers` → `schemas` |
+| Cache | Redis con TTL por tipo de entidad e invalidación por patrón en escrituras |
+| Infra | Docker Compose: API + PostgreSQL + Redis + pgAdmin |
+| Patrones | `BaseRepository[ModelType]` con `TypeVar` acotado, soft-delete, OpenAPI 3.1 |
+
+<br>
+
+### [CountBooks](https://github.com/marcozxdev/CountBooks)
+
+`Python` `PySide6` `SQLite` `pandas` `Apache-2.0`
+
+Inventario de libros para bibliotecas personales: préstamos, donaciones y pérdidas. **Cuatro autores** en el mismo repositorio.
+
+- 2.776 líneas separadas en UI → Servicio → Repositorio → Base de datos
+- SQL parametrizado al 100% e índices en título, autor, categoría e ISBN
+- Importación y exportación a Excel con pandas + openpyxl
 - Empaquetado con PyInstaller para Linux y Windows
 
----
+<br>
 
-### ✅ Task Tracker API — *API de tareas con JWT*
-**[`task-tracker-API`](https://github.com/marcozxdev/task-tracker-API)** · Python · FastAPI · SQLite · JWT
+### [Task Tracker API](https://github.com/marcozxdev/task-tracker-API)
 
-**Mi proyecto de mayor duración: 42 commits a lo largo de 7,5 meses.** Aquí aprendí FastAPI.
+`Python` `FastAPI` `SQLite` `JWT`
 
-- Autenticación JWT + hashing de contraseñas y esquema de usuarios y tareas
+Mi proyecto más largo: 42 commits repartidos en 7,5 meses.
+
+- Autenticación JWT con hashing de contraseñas
 - Claves foráneas con `ON DELETE CASCADE` y `PRAGMA foreign_keys` activo
 - Colección de Postman documentada
 
----
+<br>
 
-### 💰 gesPagos CLI — *Control de deudas y pagos*
-**[`gesPagos_CLI`](https://github.com/marcozxdev/gesPagos_CLI)** · Python · SQLite · bcrypt
+### [gesPagos CLI](https://github.com/marcozxdev/gesPagos_CLI)
 
-Aplicación de terminal para registrar deudas, pagos y saldos. SQL parametrizado con parámetros nombrados y empaquetado como binario autónomo.
+`Python` `SQLite` `bcrypt`
 
----
-
-## 📈 Mi trayectoria
-
-No empecé sabiendo. Estos son los commits, no las promesas:
-
-| Periodo | Qué cambió |
-|:---|:---|
-| **Nov 2025** — `task-tracker-API` | Primeros endpoints FastAPI. Cero tests, cero anotaciones de tipo, `except:` vacíos, dependencias faltantes en `requirements.txt`. |
-| **Abr 2026** — `CountBooks` | Primer proyecto con licencia open source y trabajo real en equipo (4 autores). SQL parametrizado y separación por capas. |
-| **Ago 2026** — `Northwind` | Salto a arquitectura enterprise: repositorios genéricos, RBAC, caché Redis, Docker Compose. |
-| **Sep 2026** — `Northwind` | **100 tests automatizados en verde**, ejecutados contra PostgreSQL y Redis reales. `conftest.py` de 298 líneas con aislamiento por rollback y 475 docstrings estilo Google. |
-
-**Diez meses, de cero tests a un pipeline de CI con cobertura de pruebas de integración.**
+Terminal para registrar deudas, pagos y saldos, con empaquetado como binario autónomo.
 
 ---
 
-## 🧭 Hacia dónde voy
+## Trayectoria
 
-- **IA aplicada a backend** — RAG y agentes sobre Python, no solo consume modelos
-- **Despliegue y observabilidad** — llevar Northwind de `docker compose up` a un entorno real con métricas
-- **Ingeniería de datos** — deepen en PostgreSQL, índices y modelado a escala
+**Nov 2025** — Primeros endpoints FastAPI. Sin tests, sin anotaciones de tipo, `except:` vacíos.
+
+**Abr 2026** — CountBooks: licencia open source y trabajo con otros tres autores.
+
+**Ago 2026** — Northwind: repositorios genéricos, RBAC, caché Redis, Docker Compose.
+
+**Sep 2026** — Northwind: 100 tests en verde y 475 docstrings estilo Google.
+
+Diez meses entre el primer endpoint y una suite de integración.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-Disponible para **oportunidades de backend Python (Junior–Mid)** y proyectos de freelance.
+[LinkedIn](https://www.linkedin.com/in/marco-salazar-3a39733b4/) ·
+[marcozxdev@gmail.com](mailto:marcozxdev@gmail.com)
 
-<!--
-  Descomenta y completa. Sin email ni LinkedIn el perfil no tiene vía de
-  conversión: un recruiter que llega desde el repo no tiene dónde escribirte.
--->
-<!-- **Email:**    tu-correo@ejemplo.com -->
-<!-- **LinkedIn:** https://www.linkedin.com/in/tu-usuario/ -->
-
-📍 Quindío, Colombia · 🌎 Español nativo · 🇬🇧 Inglés técnico (A2 → B1 en curso)
+Quindío, Colombia · Español nativo · Inglés técnico en progreso
 
 ---
 
 <details>
-<summary><b>🇬🇧 English version</b></summary>
+<summary><b>English</b></summary>
 
-## Marco Salazar
+<br>
 
-**Backend Python Engineer — FastAPI · PostgreSQL · Redis · Docker**
+# Marco Salazar
 
-I build production APIs with Python. This is my real stack, not my aspirational stack.
+**Backend Engineer · Python**
 
-🟢 **Open to Python backend opportunities (Junior–Mid)**
+[LinkedIn](https://www.linkedin.com/in/marco-salazar-3a39733b4/) ·
+[marcozxdev@gmail.com](mailto:marcozxdev@gmail.com) ·
+Quindío, Colombia
 
-[`github.com/marcozxdev`](https://github.com/marcozxdev) · [`Northwind API`](https://github.com/marcozxdev/Northwind-Enterprise-API)
+### Stack
 
-<!--
-  Add your real contact details here. Uncomment and fill in.
-  **Email:**    your-email@example.com
-  **LinkedIn:** https://www.linkedin.com/in/your-handle/
--->
+Python · FastAPI · SQLAlchemy 2.0 · PostgreSQL 17 · Redis 8 · Docker · pytest · Git
+SQLite · pandas · PySide6 · OpenAPI · Linux · Bash
 
-### 📊 By the numbers
+### Projects
 
-| | |
-|:---:|:---|
-| **8** | public repositories |
-| **~20,300** | lines of code written |
-| **100** | automated tests passing |
-| **113** | documented commits |
-| **10** | months of documented progress |
-
-### 🚀 Projects
-
-**⭐ Northwind Enterprise API** · Python · FastAPI · PostgreSQL 17 · Redis 8 · Docker
-Full REST API over the Northwind sample database — 8 business entities, ~8,400 lines.
-- Clean layered architecture: `core` → `models` → `repositories` → `routers` → `schemas`
-- **100 passing automated tests**, executed against real PostgreSQL and Redis, with per-test transaction rollback isolation
-- **RBAC with 6 roles**, correct 401 vs 403 distinction
-- **Redis caching** with tiered TTLs and automatic pattern invalidation on writes
-- **Docker Compose** with 4 services: API, PostgreSQL 17, Redis, pgAdmin
+**[Northwind Enterprise API](https://github.com/marcozxdev/Northwind-Enterprise-API)** · Python · FastAPI · PostgreSQL 17 · Redis 8 · Docker
+Enterprise REST API over the Northwind database. 8 business entities, 8,386 lines of Python across 60 modules.
+- **100 automated tests passing** against real PostgreSQL and Redis
+- 6 roles with correct 401 / 403 separation
+- Layered architecture: `core` → `models` → `repositories` → `routers` → `schemas`
+- Redis caching with tiered TTLs and pattern invalidation on writes
+- Docker Compose: API + PostgreSQL + Redis + pgAdmin
 - Generic `BaseRepository[ModelType]` with bounded `TypeVar`
-- Modern SQLAlchemy 2.0 (`DeclarativeBase`, `Mapped[T]`, `mapped_column`) + psycopg 3
 
-**📚 CountBooks** · Python · PySide6 · SQLite · pandas · Apache-2.0
-Desktop library inventory app with loans and donations tracking. **Open source with 4 authors** — the one project I collaborated on as a team.
-- ~2,800 lines, UI → Service → Repository → database separation
-- 100% parameterized SQL with indexes on title, author, category and ISBN
-- Excel import/export, packaged with PyInstaller
+**[CountBooks](https://github.com/marcozxdev/CountBooks)** · Python · PySide6 · SQLite · pandas · Apache-2.0
+Book inventory for personal libraries: loans, donations and losses. **Four authors** on one repository.
+- 2,776 lines split across UI → Service → Repository → Database
+- 100% parameterized SQL, indexed on title, author, category and ISBN
+- Excel import/export via pandas + openpyxl, packaged with PyInstaller
 
-**✅ Task Tracker API** · Python · FastAPI · SQLite · JWT
-**My longest-running project: 42 commits over 7.5 months.** This is where I learned FastAPI.
+**[Task Tracker API](https://github.com/marcozxdev/task-tracker-API)** · Python · FastAPI · SQLite · JWT
+My longest project: 42 commits over 7.5 months.
 
-**💰 gesPagos CLI** · Python · SQLite · bcrypt
+**[gesPagos CLI](https://github.com/marcozxdev/gesPagos_CLI)** · Python · SQLite · bcrypt
 Terminal app for tracking debts, payments and balances.
 
-### 📈 My trajectory
+### Trajectory
 
-I didn't start out knowing this. These are the commits, not the promises:
+- **Nov 2025** — First FastAPI endpoints. No tests, no type annotations, empty `except:`.
+- **Apr 2026** — CountBooks: open-source license, work alongside three other authors.
+- **Aug 2026** — Northwind: generic repositories, RBAC, Redis caching, Docker Compose.
+- **Sep 2026** — Northwind: 100 tests passing, 475 Google-style docstrings.
 
-- **Nov 2025** — First FastAPI endpoints. Zero tests, zero type annotations, empty `except:`, missing dependencies.
-- **Apr 2026** — First open-source licensed project and real team collaboration (4 authors).
-- **Aug 2026** — Jump to enterprise architecture: generic repositories, RBAC, Redis caching, Docker Compose.
-- **Sep 2026** — **100 passing automated tests**, executed against real PostgreSQL and Redis. 298-line `conftest.py` with per-test transaction rollback, 475 Google-style docstrings.
+Ten months from a first endpoint to an integration suite.
 
-**Ten months, from zero tests to an integration suite of 100 passing tests.**
+### Contact
 
-### 🧭 Where I'm headed
-
-- **Applied AI for backend** — RAG and agents in Python, not just consuming models
-- **Deployment and observability** — taking Northwind from `docker compose up` to a real environment
-- **Data engineering** — going deeper on PostgreSQL, indexing and modeling at scale
-
-### 📫 Contact
-
-Open to **Python backend opportunities (Junior–Mid)** and freelance work.
-
-📍 Quindío, Colombia · 🌎 Native Spanish speaker · 🇬🇧 Technical English (A2 → B1, in progress)
+[LinkedIn](https://www.linkedin.com/in/marco-salazar-3a39733b4/) · [marcozxdev@gmail.com](mailto:marcozxdev@gmail.com)
 
 </details>
-
----
-
-<div align="center">
-
-<sub>Hecho con código, no con promesas.</sub><br>
-<sub>Built with code, not with promises.</sub>
-
-</div>
