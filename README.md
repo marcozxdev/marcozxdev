@@ -28,33 +28,62 @@
 
 ## Stack
 
-<div align="center">
+### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="42" alt="SQLAlchemy">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" alt="Redis">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="42" alt="pytest">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python"><br><sub>Python</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"><br><sub>FastAPI</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="48" alt="SQLAlchemy"><br><sub>SQLAlchemy 2.0</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" alt="OpenAPI"><br><sub>OpenAPI 3.1</sub></td>
+</tr>
+</table>
 
-<br>
+### Datos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" alt="pandas">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="42" alt="Qt">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" alt="OpenAPI">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" alt="Bash">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"><br><sub>PostgreSQL 17</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" alt="Redis"><br><sub>Redis 8</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite"><br><sub>SQLite</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" alt="pandas"><br><sub>pandas</sub></td>
+</tr>
+</table>
 
-</div>
+### Infraestructura
 
-**Backend** FastAPI · Pydantic · SQLAlchemy 2.0 · psycopg 3 · Uvicorn
-**Datos** PostgreSQL 17 · Redis 8 · SQLite · pandas
-**Seguridad** JWT · bcrypt · RBAC
-**Infra** Docker Compose · Git · Linux · Bash
-**Desktop** PySide6 · PyInstaller
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" alt="Docker"><br><sub>Docker Compose</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" alt="Git"><br><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux"><br><sub>Linux</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="Bash"><br><sub>Bash</sub></td>
+</tr>
+</table>
+
+### Calidad y herramientas
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="48" alt="pytest"><br><sub>pytest</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="Visual Studio Code"><br><sub>VS Code</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="48" alt="PyCharm"><br><sub>PyCharm</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="48" alt="Qt"><br><sub>PySide6</sub></td>
+</tr>
+</table>
+
+### También manejo
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5"><br><sub>HTML5</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3"><br><sub>CSS3</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"><br><sub>JavaScript</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
+</tr>
+</table>
+
+**Sin icono propio en devicon** — Pydantic · JWT · bcrypt · RBAC · Repository Pattern · Uvicorn · psycopg 3 · openpyxl · PyInstaller
 
 ---
 
@@ -149,8 +178,11 @@ Quindío, Colombia
 
 ### Stack
 
-Python · FastAPI · SQLAlchemy 2.0 · PostgreSQL 17 · Redis 8 · Docker · pytest · Git
-SQLite · pandas · PySide6 · OpenAPI · Linux · Bash
+**Backend** Python · FastAPI · SQLAlchemy 2.0 · OpenAPI 3.1
+**Data** PostgreSQL 17 · Redis 8 · SQLite · pandas
+**Infrastructure** Docker Compose · Git · Linux · Bash
+**Quality** pytest · VS Code · PyCharm · PySide6
+**Also** HTML5 · CSS3 · JavaScript · Tailwind CSS · Pydantic · JWT · bcrypt
 
 ### Projects
 
